@@ -39,10 +39,21 @@ public class GamesDeveloper:
 <br>
 
 <p align="center">
+  <code><img title="Android studio" height="25" src="images/android.svg"></code>
+  
+  <code><img title="C" height="25" src="images/c.svg"></code>
+  <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
+  
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  
   <code><img title="Unity3D" height="25" src="images/unity3d.svg"></code>
+  
+  <code><img title="DokuWiki" height="25" src="images/Dokuwiki.png"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><a href="https://www.youtube.com/watch?v=H3dToD7_ATU"><img title="ImGamer!" height="25" src="images/mipupu.svg"></a></code>
+  <code><img title="GitHub" height="25" src="images/gitlab.svg"></code>
+  
+  <code><img title="ImGamer!" height="25" src="images/mipupu.svg"></code>
 </p>
 
 <hr>
