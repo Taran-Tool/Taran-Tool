@@ -12,7 +12,7 @@ public class GamesDeveloper:
         Persona.name = me;
         Persona.roles[] = {"Unity3D_Developer", "Developer"};
         Persona.language_spoken[] = {"ru_RU", "en_US"};
-        Persona.tecs_tools[] = {"Unity3D", "Blender", "Photoshop/GIMP", "Inkscape", "Autodesk Autocad", "Adobe Audition"};
+        Persona.tecs_tools[] = {"Unity3D", "Blender", "Photoshop/GIMP", "Inkscape", "Autocad", "Audition"};
         Persona.isGamer = True;
     }   
     
