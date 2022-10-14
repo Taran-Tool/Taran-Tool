@@ -39,7 +39,7 @@ public class GamesDeveloper:
 <br>
 
 <p align="center">
-  <code><img title="Android studio" height="25" src="images/android.svg"></code>
+  <code><img title="Android studio" height="25" margin-left="15" src="images/android.svg"></code>
   <code><img title="C" height="25" src="images/c.svg"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
