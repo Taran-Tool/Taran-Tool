@@ -44,7 +44,7 @@ public class GamesDeveloper:
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Python" height="25" src="images/python.svg"></code>
-  <code><img title="VSCode" height="25" src="images/vscode.svg"></code>
+  <code><img title="VSCode" height="25" src="images/vscode.png"></code>
   <code><img title="OpenGL" height="25" src="images/opengl.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
@@ -61,9 +61,11 @@ public class GamesDeveloper:
   <code><img title="Audition" height="25" src="images/Audition.png"></code>
   <code><img title="Autocad" height="25" src="images/autocad.svg"></code>
   <code><img title="Blender" height="25" src="images/Blender.svg"></code>
+  <code><img title="Z-Brush" height="25" src="images/zbrush.svg"></code>
+  <code><img title="Substance Painter" height="25" src="images/substancep.svg"></code>
   <code><img title="Photoshop" height="25" src="images/Photoshop.png"></code>
   <code><img title="GIMP" height="25" src="images/GIMP.png"></code>
-  <code><img title="Inkscape" height="25" src="images/inkspace.png"></code>
+  <code><img title="Inkscape" height="25" src="images/Inkspace.png"></code>
   <code><img title="Kali Linux" height="25" src="images/Kali.png"></code> 
   <code><img title="Proxmox" height="25" src="images/proxmox.svg"></code> 
   <code><img title="Stack Overflow" height="25" src="images/stackoverflow.svg"></code>
