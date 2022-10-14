@@ -47,7 +47,12 @@ public class GamesDeveloper:
   <code><img title="Unity3D" height="25" src="images/unity3d.svg"></code>
   <code><img title="DokuWiki" height="25" src="images/Dokuwiki.png"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="GitHub" height="25" src="images/gitlab.svg"></code>
+  <code><img title="GitLab" height="25" src="images/gitlab.svg"></code>
+  <code><img title="Audition" height="25" src="images/Audition.png"></code>
+  <code><img title="Autocad" height="25" src="images/autocad.svg"></code>
+  <code><img title="Blender" height="25" src="images/Blender.svg"></code>
+  <code><img title="GIMP" height="25" src="images/GIMP.png"></code>
+  
   <code><img title="ImGamer!" height="25" src="images/mipupu.svg"></code>
 </p>
 
