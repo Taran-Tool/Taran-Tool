@@ -70,7 +70,6 @@ public class GamesDeveloper:
   <code><img title="Proxmox" height="25" src="images/proxmox.svg"></code> 
   <code><img title="Stack Overflow" height="25" src="images/stackoverflow.svg"></code>
   <code><img title="Telegram" height="25" src="images/telegram.png"></code> 
-  <code><img title="ImGamer!" height="25" src="images/mipupu.svg"></code>
 </p>
 
 <hr>
