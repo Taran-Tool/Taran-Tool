@@ -65,7 +65,7 @@ public class GamesDeveloper:
   <code><img title="Substance Painter" height="25" src="images/substancep.svg"></code>
   <code><img title="Photoshop" height="25" src="images/Photoshop.png"></code>
   <code><img title="GIMP" height="25" src="images/GIMP.png"></code>
-  <code><img title="Inkscape" height="25" src="images/Inkspace.png"></code>
+  <code><img title="Inkscape" height="25" src="images/Inkscape.svg"></code>
   <code><img title="Kali Linux" height="25" src="images/Kali.png"></code> 
   <code><img title="Proxmox" height="25" src="images/proxmox.svg"></code> 
   <code><img title="Stack Overflow" height="25" src="images/stackoverflow.svg"></code>
