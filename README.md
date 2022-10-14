@@ -43,14 +43,14 @@ public class GamesDeveloper:
   <code><img title="C" height="25" src="images/c.svg"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="images/python.svg"></code>
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="VSCode" height="25" src="images/vscode.png"></code>
   <code><img title="OpenGL" height="25" src="images/opengl.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="JQuery" height="25" src="images/jquery.svg"></code>
+  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="Joomla" height="25" src="images/joomla.svg"></code>
