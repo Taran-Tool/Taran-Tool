@@ -61,7 +61,7 @@ public class GamesDeveloper:
   <code><img title="Audition" height="25" src="images/Audition.png"></code>
   <code><img title="Autocad" height="25" src="images/autocad.svg"></code>
   <code><img title="Blender" height="25" src="images/Blender.svg"></code>
-  <code><img title="Z-Brush" height="25" src="images/zbrush.svg"></code>
+  <code><img title="Z-Brush" height="25" src="images/zbrush.png"></code>
   <code><img title="Substance Painter" height="25" src="images/substancep.svg"></code>
   <code><img title="Photoshop" height="25" src="images/Photoshop.png"></code>
   <code><img title="GIMP" height="25" src="images/GIMP.png"></code>
