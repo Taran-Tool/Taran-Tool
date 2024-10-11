@@ -10,10 +10,14 @@ public class GamesDeveloper:
     public void MySelf(string me)
     {
         Persona.name = me;
-        Persona.roles[] = {"Unity3D_Developer", "Developer"};
+        Persona.roles[] = {"Game_Developer", "DevOps", "Developer"};
         Persona.language_spoken[] = {"ru_RU", "en_US"};
-        Persona.tecs_tools[] = {"Unity3D", "Blender", "Photoshop/GIMP", "Inkscape", "Autocad", "Audition"};
+        Persona.tecs_tools[] = {"Docker", "Kubernetes", "Ansible", "PostgreSQL", "MySQL", "SQLite", "Prometheus+Grafana"};
+        Persona.lang = {"C#", "Python", "GoLang", "Java", "Spring", "C++"};
+        Persona.web = {"HTML", "CSS", "PHP", "JavaScript", "Svelte", "LAMP"}
+        Persona.gotExp[] = {"Linux", "Mikrotik", "Blender", "Photoshop/GIMP", "Inkscape", "Autocad", "Audition"};
         Persona.isGamer = True;
+        Persona.isGood = True;
     }   
     
     public void SayHello()
@@ -23,7 +27,7 @@ public class GamesDeveloper:
     
     public void Start()
     {
-        MySelf(Andrey_Taran);
+        MySelf(Andrey_T);
         SayHello();
     }
 }
@@ -35,7 +39,7 @@ public class GamesDeveloper:
 
 <hr>
 
-## 🔥 Языки программирования & Фреймворки & Инструменты 🔥
+## 🔥 Языки программирования, Фреймворки, Инструменты 🔥
 <br>
 
 <p align="center">
