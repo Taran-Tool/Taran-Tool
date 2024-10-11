@@ -16,8 +16,8 @@ public class GamesDeveloper:
         Persona.lang[] = {"C#", "Python", "GoLang", "Java+Spring", "C++"};
         Persona.web[] = {"HTML", "CSS", "PHP", "JavaScript", "Svelte", "LAMP"}
         Persona.gotExp[] = {"Linux", "Mikrotik", "Blender", "Photoshop/GIMP", "Inkscape", "Autocad", "Audition"};
-        Persona.isGamer = True;
         Persona.isGood = True;
+        Persona.isGamer = True;        
     }   
     
     public void SayHello()
