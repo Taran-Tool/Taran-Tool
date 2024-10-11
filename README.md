@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Taran-Tool)
 
 ```csharp
-public class GamesDeveloper:
+public class Developer:
 {
     GameObject Persona = new GameObject();
        
