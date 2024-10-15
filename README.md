@@ -37,7 +37,8 @@ public class Developer:
 ## 🗂️ Мои репозитории
 ### <img title="Android studio" height="25" src="images/kuber.svg"> Kubernetes 
 <ul>
-<li>[POD creation sample](https://github.com/Taran-Tool/Kubernetes_POD_Sample "POD creation sample")</li>
+<li> 
+    [POD creation sample](https://github.com/Taran-Tool/Kubernetes_POD_Sample "POD creation sample") </li>
 </ul>
 
 
