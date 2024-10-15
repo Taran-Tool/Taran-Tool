@@ -35,7 +35,8 @@ public class Developer:
 <hr>
 
 ## 🗂️ Мои репозитории
-(https://github.com/Taran-Tool/Kubernetes_POD_Sample)
+###Kubernetes
+(https://github.com/Taran-Tool/Kubernetes_POD_Sample "POD creation sample")
 
 <hr>
 
