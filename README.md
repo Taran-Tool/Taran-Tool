@@ -38,7 +38,8 @@ public class Developer:
 ### <img title="Android studio" height="25" src="images/kuber.svg"> Kubernetes 
 <ul>
 <li> 
-    [POD creation sample](https://github.com/Taran-Tool/Kubernetes_POD_Sample "POD creation sample") </li>
+    <a href="https://github.com/Taran-Tool/Kubernetes_POD_Sample" title="POD creation sample">POD creation sample</a>
+</li>
 </ul>
 
 
