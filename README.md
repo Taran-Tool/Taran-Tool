@@ -36,7 +36,11 @@ public class Developer:
 
 ## 🗂️ Мои репозитории
 ### <img title="Kubernetes" height="25" src="images/kuber.svg"> Kubernetes 
-* [POD creation sample](https://github.com/Taran-Tool/Kubernetes_POD_Sample "POD creation sample") 
+* [POD creation sample](https://github.com/Taran-Tool/Kubernetes_POD_Sample "POD creation sample")
+* [GDD Sample](https://github.com/Taran-Tool/GDD "GDD Sample") 
+* ["HLSL Basic Light Model](https://github.com/Taran-Tool/HLSL-Basic-Light-Model "HLSL Basic Light Model")
+* [Octree Sample](https://github.com/Taran-Tool/Octree "Octree Sample")
+* [TBS Field Game](https://github.com/Taran-Tool/TBS-field "TBS Field Game")
 
 
 
